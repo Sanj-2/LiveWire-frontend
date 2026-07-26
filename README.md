@@ -2,7 +2,7 @@
 
 The frontend for LiveWire — a real-time sports broadcast dashboard. It connects to the LiveWire backend over REST and WebSocket to display live matches and commentary as they happen, with no polling or manual refresh required.
 
-**Live site:** https://live-wire-frontend-c1gkesanr-sanjeevcoder.vercel.app
+**Live site:**https://live-wire-frontend.vercel.app/
 **Backend repo:** https://github.com/Sanj-2/LiveWire
 
 ## What it does
